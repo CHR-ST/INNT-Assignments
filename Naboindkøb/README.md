@@ -31,7 +31,7 @@ Du skal have [Node.js](https://nodejs.org/) installeret. Installer gerne **Expo 
 
 ```bash
 git clone <REPOSITORY-URL>
-cd INNT_Exercises/min_app
+cd INNT-Assignments/Naboindkøb
 npm install
 ```
 
@@ -90,7 +90,7 @@ Scan QR-koden med Expo Go, eller åbn appen i en Android-/iOS-simulator. Genstar
 ## Projektstruktur
 
 ```text
-min_app/
+Naboindkøb/
 ├── App.js                    # Fælles app-state, Firestore og navigation
 ├── components/               # Genbrugelige inputfelter, knapper og varekort
 ├── database/firebase.js      # Firebase-forbindelse og vedvarende login
